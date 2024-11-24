@@ -129,9 +129,6 @@ body {
     align-self: center;
     margin-right: 8px;
 }
-.team_block{
-    
-}
 .team_title {
     font-size: 12px;
     font-weight: 600;
@@ -148,7 +145,7 @@ body {
 }
 
 /* Services */
-@media  and (max-width: 1366px) {
+@media screen and (max-width: 1366px) {
     .team .container {
         padding: 0 15px;
     }
